@@ -1,0 +1,15 @@
+streamlit
+numpy
+pandas
+plotly
+matplotlib
+seaborn
+plotly
+scipy
+scikit-learn
+wordcloud
+statsmodels
+xgboost
+pyqt5
+streamlit-pandas-profiling
+-e .
